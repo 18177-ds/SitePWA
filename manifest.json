@@ -1,0 +1,18 @@
+{
+    "dir": "ltr",
+    "lang": "Portuguese",
+    "name": "InfoWeb - Página Inicial",
+    "short_name": "InfoWeb",
+    "scope": "./?",
+    "display": "fullscreen",
+    "start_url": "https://joao-pedro810.github.io/Site-PWA---Jo-o-Pedro-Campeiro/",
+    "background_color": "#1c202c",
+    "theme_color": "transparent",
+    "description": "Um aplicativo PWA",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://joao-pedro810.github.io/Site-PWA---Jo-o-Pedro-Campeiro/",
+    "screenshots": []
+}
